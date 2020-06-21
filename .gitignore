@@ -22,14 +22,12 @@ mods/
 /.project
 */src/main/java/META-INF/
 *.versionsBackup
-bin/
 
 # common junk
 *.log
 *.swp
 *.diff
 *.patch
-*/bin/
 
 # intellij
 *.iml
